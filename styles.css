@@ -17,6 +17,7 @@ body{
     line-height: 1.5;
     color:var(--color-body);
 }
+/* headings */
 h1,h2,h3 {
     color: var(--color-headings);
     margin-bottom: 1rem;
